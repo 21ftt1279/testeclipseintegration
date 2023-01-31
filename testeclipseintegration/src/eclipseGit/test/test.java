@@ -1,4 +1,4 @@
-package testeclipseintegration.test;
+package eclipseGit.test;
 
 public class test {
 
@@ -6,6 +6,8 @@ public class test {
 		System.out.println("GitHub");
 		ClassA classA = new ClassA("ABCDEF");
 		System.out.println(classA.getAbc());
+		
+		//A
 	}
 	
 	

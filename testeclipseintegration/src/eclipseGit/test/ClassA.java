@@ -1,4 +1,4 @@
-package testeclipseintegration.test;
+package eclipseGit.test;
 
 public class ClassA {
 
@@ -16,6 +16,6 @@ public class ClassA {
 		this.abc = abc;
 	}
 	
-	System.out.println("This code was vandalized by Muhaimin ");
+//	System.out.println("This code was vandalized by Muhaimin ");
 
 }
